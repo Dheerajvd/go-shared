@@ -29,4 +29,4 @@ git push origin v0.1.9
 Note: Increase the above counter after each push
 
 ## T0 Fetch in services
-go get github.com/Dheerajvd/queue-core@v0.1.9
+go get github.com/Dheerajvd/go-shared@v0.1.0

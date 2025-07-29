@@ -1,4 +1,4 @@
-module github.com/Dheerajvd/queue-core
+module github.com/Dheerajvd/go-shared
 
 go 1.20
 

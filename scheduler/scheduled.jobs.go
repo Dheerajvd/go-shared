@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/Dheerajvd/queue-core/core"
-	"github.com/Dheerajvd/queue-core/types"
+	"github.com/Dheerajvd/go-shared/core"
+	"github.com/Dheerajvd/go-shared/types"
 	"github.com/redis/go-redis/v9"
 )
 

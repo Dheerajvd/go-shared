@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/Dheerajvd/queue-core/types"
+	"github.com/Dheerajvd/go-shared/types"
 )
 
 func FlushQueue(ctx context.Context, queueName string) error {
